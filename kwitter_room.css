@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#user_name{
+    background-color: blue;
+}
+button{
+    background-color: lightgreen;
+}
+.output{
+    color:white;
+}
